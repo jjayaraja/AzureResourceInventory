@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.cognitiveservices/account
 Excel Sheet Name: Computer Vision
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/AI/ComputerVision.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/AI/ComputerVision.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

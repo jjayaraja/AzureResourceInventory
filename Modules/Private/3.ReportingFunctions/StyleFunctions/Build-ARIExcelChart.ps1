@@ -6,7 +6,7 @@ Module for Excel Chart Creation
 This script creates charts in the Overview sheet of the Excel report.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/StyleFunctions/Build-ARIExcelChart.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/StyleFunctions/Build-ARIExcelChart.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

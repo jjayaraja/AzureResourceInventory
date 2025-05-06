@@ -6,7 +6,7 @@ Start Security Center Job Module
 This script processes and creates the Security Center sheet based on security resources.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/PublicFunctions/Jobs/Start-ARISecCenterJob.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/PublicFunctions/Jobs/Start-ARISecCenterJob.ps1
 
 .COMPONENT
     This powershell Module is part of Azure Resource Inventory (ARI)

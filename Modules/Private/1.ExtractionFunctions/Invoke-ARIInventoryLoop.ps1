@@ -6,7 +6,7 @@ Module responsible for looping through Azure Resource Graph queries.
 This module is used to loop through Azure Resource Graph queries and retrieve resources in batches.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/1.ExtractionFunctions/Invoke-ARIInventoryLoop.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/1.ExtractionFunctions/Invoke-ARIInventoryLoop.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

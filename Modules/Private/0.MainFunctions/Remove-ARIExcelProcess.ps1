@@ -6,7 +6,7 @@ Forcefully stops Excel process.
 This module forcefully stops the Excel process.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/0.MainFunctions/Remove-ARIExcelProcess.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/0.MainFunctions/Remove-ARIExcelProcess.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

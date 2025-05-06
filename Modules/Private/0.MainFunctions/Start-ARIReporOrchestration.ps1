@@ -6,7 +6,7 @@ Main module for Excel Report Building
 This module is the main module for building the Excel Report.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/0.MainFunctions/Start-ARIReporOrchestration.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/0.MainFunctions/Start-ARIReporOrchestration.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

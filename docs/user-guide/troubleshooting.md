@@ -230,6 +230,6 @@ $data | Export-Excel -Path "test.xlsx"
 
 If you've tried the solutions above and still have issues:
 
-1. Check the [GitHub Issues](https://github.com/microsoft/ARI/issues) to see if it's a known issue
+1. Check the [GitHub Issues](https://github.com/jjayaraja/AzureResourceInventory/issues) to see if it's a known issue
 2. Submit a new issue with detailed information about your problem
 3. Include error messages and the output of running ARI with the `-Debug` parameter 

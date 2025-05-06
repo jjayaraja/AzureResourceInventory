@@ -44,7 +44,7 @@ Install-Module -Name AzureResourceInventory -Scope CurrentUser
 
 If you prefer to install the module manually:
 
-1. Download the latest release from the [GitHub Releases page](https://github.com/microsoft/ARI/releases)
+1. Download the latest release from the [GitHub Releases page](https://github.com/jjayaraja/AzureResourceInventory/releases)
 2. Extract the ZIP file to your PowerShell modules directory (typically `$HOME\Documents\PowerShell\Modules\`)
 3. Ensure the module folder is named "AzureResourceInventory"
 

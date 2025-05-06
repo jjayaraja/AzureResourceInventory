@@ -6,7 +6,7 @@ Module responsible for retrieving Azure API resources.
 This module retrieves Azure API resources, including Resource Health, Managed Identities, Advisor Scores, and Policies.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/1.ExtractionFunctions/Get-ARIAPIResources.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/1.ExtractionFunctions/Get-ARIAPIResources.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

@@ -6,7 +6,7 @@ Module for Extra Reports
 This script processes and creates additional report sheets such as Quotas, Security Center, Policies, and Advisory.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/Start-ARIExtraReports.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/Start-ARIExtraReports.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

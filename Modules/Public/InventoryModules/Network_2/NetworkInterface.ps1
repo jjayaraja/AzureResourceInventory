@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.network/natgateways and  
 Excel Sheet Name: Network Interface
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/Network_2/NetworkInterface.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/Network_2/NetworkInterface.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

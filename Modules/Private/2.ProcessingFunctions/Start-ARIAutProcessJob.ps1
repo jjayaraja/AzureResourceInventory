@@ -6,7 +6,7 @@ Module responsible for starting automated processing jobs for Azure Resources.
 This module creates and manages automated thread jobs to process Azure Resources using PowerShell script blocks for efficient execution.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/2.ProcessingFunctions/Start-ARIAutProcessJob.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/2.ProcessingFunctions/Start-ARIAutProcessJob.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

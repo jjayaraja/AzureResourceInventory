@@ -6,7 +6,7 @@ Inventory for Azure Automation Account
 This script consolidates information for all microsoft.automation/automationaccounts and  resource provider in $Resources variable. 
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/Management/AutomationAccounts.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/Management/AutomationAccounts.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

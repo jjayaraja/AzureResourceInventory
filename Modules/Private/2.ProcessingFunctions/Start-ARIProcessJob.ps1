@@ -6,7 +6,7 @@ Module responsible for starting the processing jobs for Azure Resources.
 This module creates and manages jobs to process Azure Resources in batches based on the environment size. It ensures efficient resource processing and avoids CPU overload.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/2.ProcessingFunctions/Start-ARIProcessJob.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/2.ProcessingFunctions/Start-ARIProcessJob.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

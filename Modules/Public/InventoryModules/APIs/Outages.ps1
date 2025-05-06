@@ -6,7 +6,7 @@ Inventory for Azure Outages
 Excel Sheet Name: Outages
 
 .Link
-https://github.com/microsoft/ARI/Modules/APIs/Outages.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/APIs/Outages.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

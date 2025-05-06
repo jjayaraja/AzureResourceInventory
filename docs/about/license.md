@@ -53,8 +53,8 @@ The MIT License is a permissive open-source license that allows for reuse, modif
 
 ## Full License Text
 
-The full license text can be found in the [LICENSE](https://github.com/microsoft/ARI/blob/main/LICENSE) file in the project repository.
+The full license text can be found in the [LICENSE](https://github.com/jjayaraja/AzureResourceInventory/blob/main/LICENSE) file in the project repository.
 
 ## Questions
 
-If you have any questions about the license or how you can use Azure Resource Inventory, please refer to the [Microsoft Open Source](https://opensource.microsoft.com/) website or create an issue in the [GitHub repository](https://github.com/microsoft/ARI/issues). 
+If you have any questions about the license or how you can use Azure Resource Inventory, please refer to the [Microsoft Open Source](https://opensource.microsoft.com/) website or create an issue in the [GitHub repository](https://github.com/jjayaraja/AzureResourceInventory/issues). 

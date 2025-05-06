@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.network/privateendpoints 
 Excel Sheet Name: Private Endpoints
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/Network_2/PrivateEndpoint.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/Network_2/PrivateEndpoint.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

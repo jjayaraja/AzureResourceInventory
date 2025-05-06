@@ -6,7 +6,7 @@ Inventory for Azure Managed Identities
 Excel Sheet Name: ManagedIdentities
 
 .Link
-https://github.com/microsoft/ARI/Modules/APIs/ManagedIdentities.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/APIs/ManagedIdentities.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.desktopvirtualization and
 Excel Sheet Name: AVD
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/Compute/AVD.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/Compute/AVD.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

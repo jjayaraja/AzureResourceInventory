@@ -85,7 +85,7 @@ Early development versions of ARI were used internally at Microsoft before the p
 
 ## Reporting Issues
 
-If you encounter problems with any version of ARI, please report them on the [GitHub Issues page](https://github.com/microsoft/ARI/issues).
+If you encounter problems with any version of ARI, please report them on the [GitHub Issues page](https://github.com/jjayaraja/AzureResourceInventory/issues).
 
 ## Contributing
 

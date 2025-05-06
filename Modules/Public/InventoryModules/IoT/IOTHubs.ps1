@@ -7,7 +7,7 @@ This script consolidates information for all  resource provider in $Resources va
 Excel Sheet Name: IOTHubs
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/IoT/IOTHubs.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/IoT/IOTHubs.ps1
 
 .COMPONENT
     This powershell Module is part of Azure Resource Inventory (ARI)

@@ -33,7 +33,7 @@ To contribute to the codebase, you'll need:
    ```
 3. Add the upstream repository as a remote:
    ```
-   git remote add upstream https://github.com/microsoft/ARI.git
+   git remote add upstream https://github.com/jjayaraja/AzureResourceInventory.git
    ```
 4. Create a new branch for your changes:
    ```
@@ -97,7 +97,7 @@ When contributing new features or changes:
 
 If you find a bug or have a feature request:
 
-1. Check if the issue already exists in the [GitHub issue tracker](https://github.com/microsoft/ARI/issues)
+1. Check if the issue already exists in the [GitHub issue tracker](https://github.com/jjayaraja/AzureResourceInventory/issues)
 2. If not, create a new issue with a clear description
 3. For bugs, include:
    - Steps to reproduce
@@ -112,7 +112,7 @@ If you need help with your contribution:
 
 - Ask questions in the issue for your pull request
 - Reach out to the maintainers
-- Check the [README](https://github.com/microsoft/ARI/blob/main/README.md) for additional information
+- Check the [README](https://github.com/jjayaraja/AzureResourceInventory/blob/main/README.md) for additional information
 
 ## Code of Conduct
 

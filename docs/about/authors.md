@@ -41,7 +41,7 @@ If you'd like to contribute to Azure Resource Inventory, please read our [Contri
 
 ## Report Issues
 
-Found a bug or have a feature request? Please report it in the [GitHub repository issues page](https://github.com/microsoft/ARI/issues).
+Found a bug or have a feature request? Please report it in the [GitHub repository issues page](https://github.com/jjayaraja/AzureResourceInventory/issues).
 
 ## Community
 
@@ -49,7 +49,7 @@ Azure Resource Inventory has been used by many organizations across the world to
 
 ## Further Information
 
-For more information about the project, please visit the [GitHub repository](https://github.com/microsoft/ARI).
+For more information about the project, please visit the [GitHub repository](https://github.com/jjayaraja/AzureResourceInventory).
 
 ---
 

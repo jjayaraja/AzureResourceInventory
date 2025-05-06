@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.machinelearningservices/w
 Excel Sheet Name: Machine Learning
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/AI/MachineLearning.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/AI/MachineLearning.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

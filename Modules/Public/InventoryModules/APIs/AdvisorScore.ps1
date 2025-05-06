@@ -6,7 +6,7 @@ Inventory for Azure Advisor Score
 Excel Sheet Name: AdvisorScore
 
 .Link
-https://github.com/microsoft/ARI/Modules/public/InventoryModules/APIs/AdvisorScore.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/public/InventoryModules/APIs/AdvisorScore.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

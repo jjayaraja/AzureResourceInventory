@@ -119,7 +119,7 @@
     THE SOFTWARE.
 
 .LINK
-    Official Repository: https://github.com/microsoft/ARI
+    Official Repository: https://github.com/jjayaraja/AzureResourceInventory
 #>
 Function Invoke-ARI {
     [CmdletBinding(PositionalBinding=$false)]

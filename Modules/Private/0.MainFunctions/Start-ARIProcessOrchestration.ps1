@@ -6,7 +6,7 @@ Process orchestration for Azure Resource Inventory
 This module orchestrates the processing of resources for Azure Resource Inventory.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/0.MainFunctions/Start-ARIProcessOrchestration.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/0.MainFunctions/Start-ARIProcessOrchestration.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

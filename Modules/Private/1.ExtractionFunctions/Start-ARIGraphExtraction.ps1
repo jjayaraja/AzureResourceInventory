@@ -6,7 +6,7 @@ Module responsible for coordinate the extraction of Resource and build the Graph
 This module is the main module for the Azure Resource Graphs that will be run against the environment.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/1.ExtractionFunctions/Start-ARIGraphExtraction.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/1.ExtractionFunctions/Start-ARIGraphExtraction.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

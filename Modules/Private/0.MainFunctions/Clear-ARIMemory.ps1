@@ -6,7 +6,7 @@ Clear memory for Azure Resource Inventory
 This module clears memory to optimize performance for Azure Resource Inventory.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/0.MainFunctions/Clear-ARIMemory.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/0.MainFunctions/Clear-ARIMemory.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

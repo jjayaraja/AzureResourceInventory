@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.search/searchservices and
 Excel Sheet Name: SearchServices
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/AI/SearchServices.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/AI/SearchServices.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

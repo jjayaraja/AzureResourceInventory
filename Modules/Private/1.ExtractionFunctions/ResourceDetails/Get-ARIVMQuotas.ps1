@@ -6,7 +6,7 @@ Module responsible for retrieving Azure VM quotas.
 This module retrieves Azure VM quotas for specific subscriptions and locations.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/1.ExtractionFunctions/ResourceDetails/Get-ARIVMQuotas.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/1.ExtractionFunctions/ResourceDetails/Get-ARIVMQuotas.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

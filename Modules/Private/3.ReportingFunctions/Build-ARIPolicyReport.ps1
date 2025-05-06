@@ -6,7 +6,7 @@ Module for Policy Report
 This script processes and creates the Policy sheet in the Excel report.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/Build-ARIPolicyReport.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/Build-ARIPolicyReport.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.network/virtualnetworks a
 Excel Sheet Name: vNETPeering
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/Network_1/vNETPeering.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/Network_1/vNETPeering.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

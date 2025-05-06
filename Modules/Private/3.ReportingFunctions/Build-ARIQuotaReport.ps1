@@ -6,7 +6,7 @@ Module for Quota Report
 This script processes and creates the Quota Usage sheet in the Excel report.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/Build-ARIQuotaReport.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/Build-ARIQuotaReport.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

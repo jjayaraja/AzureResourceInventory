@@ -182,4 +182,4 @@ The diagrams provide interactive features:
 
 ---
 
-For more detailed information, visit the [project repository](https://github.com/microsoft/ARI).
+For more detailed information, visit the [project repository](https://github.com/jjayaraja/AzureResourceInventory).

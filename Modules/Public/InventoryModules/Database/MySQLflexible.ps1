@@ -7,7 +7,7 @@ This script consolidates information for all  resource provider in $Resources va
 Excel Sheet Name: MySQL flexible
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/Database/MySQLflexible.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/Database/MySQLflexible.ps1
 
 .COMPONENT
     This powershell Module is part of Azure Resource Inventory (ARI)

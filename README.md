@@ -13,10 +13,10 @@ Tags: PowerShell, Azure, Inventory, Excel Report, Customer Engineer
 
 ### A powerful PowerShell module for generating comprehensive Azure environment reports
 
-[![GitHub](https://img.shields.io/github/license/microsoft/ARI)](https://github.com/microsoft/ARI/blob/main/LICENSE)
-[![GitHub repo size](https://img.shields.io/github/repo-size/microsoft/ARI)](https://github.com/microsoft/ARI)
-[![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ARI)](https://github.com/microsoft/ARI/commits/main)
-[![GitHub top language](https://img.shields.io/github/languages/top/microsoft/ARI)](https://github.com/microsoft/ARI)
+[![GitHub](https://img.shields.io/github/license/microsoft/ARI)](https://github.com/jjayaraja/AzureResourceInventory/blob/main/LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/microsoft/ARI)](https://github.com/jjayaraja/AzureResourceInventory)
+[![GitHub last commit](https://img.shields.io/github/last-commit/microsoft/ARI)](https://github.com/jjayaraja/AzureResourceInventory/commits/main)
+[![GitHub top language](https://img.shields.io/github/languages/top/microsoft/ARI)](https://github.com/jjayaraja/AzureResourceInventory)
 [![Azure](https://badgen.net/badge/icon/azure?icon=azure&label)](https://azure.microsoft.com)
 
 </div>
@@ -160,7 +160,7 @@ If you want to automatically run ARI, there is a way to do it using Automation A
   <img src="images/Automation.png" width="600">
 </p>
 
-See the [Automation Guide](https://github.com/microsoft/ARI/blob/main/docs/advanced/automation.md) for implementation details.
+See the [Automation Guide](https://github.com/jjayaraja/AzureResourceInventory/blob/main/docs/advanced/automation.md) for implementation details.
 
 ## 📝 Parameters Reference
 
@@ -262,20 +262,8 @@ Interactive features show resource details on hover:
 
 ## 👥 Authors & Acknowledgments
 
-- **Claudio Merola** (<claudio.merola@microsoft.com>)
-- **Renato Gregio**
+- **CODGrid LLC** (<support@codgrid.com>)
 
-Special thanks to **Doug Finke**, the author of PowerShell [ImportExcel](https://github.com/dfinke/ImportExcel) module.
-
-## 🤝 Contributing
-
-Please read our [CONTRIBUTING.md](CONTRIBUTING.md) which outlines all policies, procedures, and requirements for contributing to this project.
-
-## 📜 License
-
-Copyright (c) 2025 Microsoft Corporation. All rights reserved.
-
-Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 

@@ -6,7 +6,7 @@ Module responsible for invoking Security Center processing jobs.
 This module starts jobs to process Azure Security Center data for subscriptions and resources, either in automation or manual mode.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/2.ProcessingFunctions/Invoke-ARISecurityCenterJob.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/2.ProcessingFunctions/Invoke-ARISecurityCenterJob.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

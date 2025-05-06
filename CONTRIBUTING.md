@@ -4,7 +4,7 @@
   <img src="images/ARI_Logo.png" width="250">
   <h3>Guidelines for Community Contributions</h3>
   
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/microsoft/ARI/pulls)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/jjayaraja/AzureResourceInventory/pulls)
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 </div>
 
@@ -277,7 +277,7 @@ Once you create the module file, it must be placed in the correct folder structu
 
 If you have questions or need help with your contribution:
 
-- **Open an Issue**: Create a new issue in the [GitHub repository](https://github.com/microsoft/ARI/issues)
+- **Open an Issue**: Create a new issue in the [GitHub repository](https://github.com/jjayaraja/AzureResourceInventory/issues)
 - **Documentation**: Refer to the [README.md](README.md) and other documentation
 - **Community Discussions**: Check existing discussions in the Issues tab
 

@@ -6,7 +6,7 @@ Retrieve unsupported data for Azure Resource Inventory
 This module retrieves unsupported data from a predefined JSON file for Azure Resource Inventory.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/0.MainFunctions/Get-ARIUnsupportedData.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/0.MainFunctions/Get-ARIUnsupportedData.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

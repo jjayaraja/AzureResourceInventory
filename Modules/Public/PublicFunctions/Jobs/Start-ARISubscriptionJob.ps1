@@ -6,7 +6,7 @@ Start Subscription Job Module
 This script processes and creates the Subscriptions sheet based on resources and their subscriptions.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/PublicFunctions/Jobs/Start-ARISubscriptionJob.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/PublicFunctions/Jobs/Start-ARISubscriptionJob.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

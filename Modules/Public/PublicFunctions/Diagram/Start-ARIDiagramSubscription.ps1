@@ -6,7 +6,7 @@ Subscription Module for Draw.io Diagram
 This module is used for the Subscription topology in the Draw.io Diagram.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/PublicFunctions/Diagram/Start-ARIDiagramSubscription.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/PublicFunctions/Diagram/Start-ARIDiagramSubscription.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

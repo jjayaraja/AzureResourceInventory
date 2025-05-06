@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.cognitiveservices/account
 Excel Sheet Name: Speech Service
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/AI/SpeechService.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/AI/SpeechService.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

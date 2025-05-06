@@ -6,7 +6,7 @@ Module responsible for invoking Draw.IO diagram generation jobs.
 This module starts jobs to generate Draw.IO diagrams for Azure Resources, including resource relationships and advisory data.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/2.ProcessingFunctions/Invoke-ARIDrawIOJob.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/2.ProcessingFunctions/Invoke-ARIDrawIOJob.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

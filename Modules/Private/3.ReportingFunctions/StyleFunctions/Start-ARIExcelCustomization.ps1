@@ -6,7 +6,7 @@ Module for Main Dashboard
 This script process and creates the Overview sheet.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/StyleFunctions/Start-ARIExcelCustomization.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/StyleFunctions/Start-ARIExcelCustomization.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

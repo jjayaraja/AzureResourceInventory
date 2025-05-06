@@ -6,7 +6,7 @@ Module responsible for retrieving Azure subscriptions.
 This module retrieves Azure subscriptions for a given tenant or specific subscription IDs.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/1.ExtractionFunctions/Get-ARISubscriptions.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/1.ExtractionFunctions/Get-ARISubscriptions.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

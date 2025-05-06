@@ -6,7 +6,7 @@ Public Advisory Job Module
 This script creates the job to process the Advisory data.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/PublicFunctions/Jobs/Start-ARIAdvisoryJob.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/PublicFunctions/Jobs/Start-ARIAdvisoryJob.ps1
 
 .COMPONENT
     This powershell Module is part of Azure Resource Inventory (ARI)

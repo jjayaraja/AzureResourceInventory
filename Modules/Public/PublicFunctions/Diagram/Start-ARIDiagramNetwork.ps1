@@ -6,7 +6,7 @@ Network Module for Draw.io Diagram
 This module is use for the Network topology in the Draw.io Diagram.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/PublicFunctions/Diagram/Start-ARIDiagramNetwork.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/PublicFunctions/Diagram/Start-ARIDiagramNetwork.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)
@@ -1334,8 +1334,8 @@ Function Start-ARIDiagramNetwork {
         Function Set-ARIDiagramLabel {
             $Date = get-date -Format "yyyy-MM-dd_HH_mm"
             $Script:XmlWriter.WriteStartElement('object')            
-            $Script:XmlWriter.WriteAttributeString('label', ('Powered by:'+ "`n" +'Azure Resource Inventory v3.6'+ "`n" +'https://github.com/microsoft/ARI' + "`n" +'Date:' + "`n" + $Date))
-            $Script:XmlWriter.WriteAttributeString('author', 'Claudio Merola')
+            $Script:XmlWriter.WriteAttributeString('label', ('Powered by:'+ "`n" +'CODGrid Azure Resource Inventory'+ "`n" +'Date:' + "`n" + $Date))
+            $Script:XmlWriter.WriteAttributeString('author', 'CODGrid LLC')
             $Script:XmlWriter.WriteAttributeString('id', ($Script:CellID+'-'+($Script:IDNum++)))
         }
 

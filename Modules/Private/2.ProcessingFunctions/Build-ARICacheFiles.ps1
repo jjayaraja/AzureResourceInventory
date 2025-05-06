@@ -6,7 +6,7 @@ Module responsible for creating the local cache files for the report.
 This module receives the job names for the Azure Resources that were processed previously and creates the local cache files that will be used to build the Excel report.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/2.ProcessingFunctions/Build-ARICacheFiles.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/2.ProcessingFunctions/Build-ARICacheFiles.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

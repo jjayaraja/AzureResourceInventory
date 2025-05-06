@@ -6,7 +6,7 @@ Module for Reporting Results Output
 This script outputs the results of the Azure Resource Inventory report generation.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/StyleFunctions/Out-ARIReportResults.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/StyleFunctions/Out-ARIReportResults.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

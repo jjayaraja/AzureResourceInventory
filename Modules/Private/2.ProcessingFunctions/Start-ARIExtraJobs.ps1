@@ -6,7 +6,7 @@ Module responsible for starting additional processing jobs for Azure Resources.
 This module handles the execution of extra jobs such as Draw.IO diagrams, Security Center processing, Policy evaluations, and Advisory processing for Azure Resources.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/2.ProcessingFunctions/Start-ARIExtraJobs.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/2.ProcessingFunctions/Start-ARIExtraJobs.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI).

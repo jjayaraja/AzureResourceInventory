@@ -6,7 +6,7 @@ Inventory for Azure Reservation Recommendations
 Excel Sheet Name: Reservation Advisor
 
 .Link
-https://github.com/microsoft/ARI/Modules/APIs/ReservationRecom.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/APIs/ReservationRecom.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

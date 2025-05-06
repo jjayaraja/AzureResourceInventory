@@ -7,7 +7,7 @@ This script consolidates information for all microsoft.keyvault/vaults and  reso
 Excel Sheet Name: Vault
 
 .Link
-https://github.com/microsoft/ARI/Modules/Public/InventoryModules/Security/Vault.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Public/InventoryModules/Security/Vault.ps1
 
 .COMPONENT
 This powershell Module is part of Azure Resource Inventory (ARI)

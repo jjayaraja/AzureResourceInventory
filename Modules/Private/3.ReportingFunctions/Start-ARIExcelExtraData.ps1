@@ -6,7 +6,7 @@ Module for Extra Excel Details
 This script open the Excel file after it has all the Resource sheets and adds extra details.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/Start-ARIExcelExtraData.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/Start-ARIExcelExtraData.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)

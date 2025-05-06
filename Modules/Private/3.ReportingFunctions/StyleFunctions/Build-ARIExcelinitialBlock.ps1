@@ -6,7 +6,7 @@ Module for Initial Block in Excel Report
 This script creates the initial block with metadata and summary information in the Excel report.
 
 .Link
-https://github.com/microsoft/ARI/Modules/Private/3.ReportingFunctions/StyleFunctions/Build-ARIExcelinitialBlock.ps1
+https://github.com/jjayaraja/AzureResourceInventory/Modules/Private/3.ReportingFunctions/StyleFunctions/Build-ARIExcelinitialBlock.ps1
 
 .COMPONENT
 This PowerShell Module is part of Azure Resource Inventory (ARI)
@@ -105,7 +105,7 @@ function Build-ARIInitialBlock {
     $txt.ComplexFont = $Font
     $txt.LatinFont = $Font
 
-    $txt = $Draw.RichText.Add('https://github.com/microsoft/ARI' + "`n" + "`n")
+    $txt = $Draw.RichText.Add('https://github.com/jjayaraja/AzureResourceInventory' + "`n" + "`n")
     $txt.Size = 11
     $txt.ComplexFont = $Font
     $txt.LatinFont = $Font
